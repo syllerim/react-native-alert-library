@@ -1,0 +1,33 @@
+{
+  "name": "react-native-alert-library",
+  "title": "React Native Alert Library",
+  "version": "1.0.0",
+  "description": "Sample to deploy npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-alert-library.git",
+    "baseUrl": "https://github.com/github_account/react-native-alert-library"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Mirellys Arteta Davila",
+    "email": "syllerim@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": "0.60.6"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "0.60.6"
+  }
+}
