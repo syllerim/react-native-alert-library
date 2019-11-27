@@ -1,4 +1,4 @@
-# react-native-measurements-library
+# react-native-alert-library
 
 ## Getting started
 
